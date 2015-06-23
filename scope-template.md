@@ -16,7 +16,7 @@ Main site: For Black Lives Matter community, engagement journalists/community ma
 ## Desgin Features: 
 Slack: Invite-Only, private conversations.
 
-No trolling.
+No trolling. Community and I only coversing about narratives overlooked or poorly covered in news media.
 
 I know WordPress.org allows users to subscribe, login and take on different roles as editors, collaborators, etc.
 But I want to explore the privacy and other functions of Google, SqaureSpace. 
@@ -36,7 +36,7 @@ Navigation Bar:
 -- Contact Page
 
 ## Design-Thinking Sketch:
-[BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
+[BLK Social Journalist Sketch](http://i.imgur.com/opPiRoK.jpg)
 
 ## Slack Wireframe: 
 
