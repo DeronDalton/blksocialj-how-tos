@@ -37,6 +37,8 @@ Navigation Bar:
 
 -- Contact Page.
 
+## Tabled Ideas
+
 ## Design-Thinking Sketch:
 
 [BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
