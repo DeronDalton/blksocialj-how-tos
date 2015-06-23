@@ -1,4 +1,6 @@
-## Product Name: BLK Social Journalist How-Tos (blksocialjournalist.com/how-tos)
+## Product Name: 
+
+BLK Social Journalist How-Tos (blksocialjournalist.com/how-tos)
 
 ## Goals:
 A resource Squarespace, Google or a WordPress.org site of how tos of covering Black Lives Matter narratives that are typically overlooked.
