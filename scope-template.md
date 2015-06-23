@@ -36,7 +36,8 @@ Navigation Bar:
 -- Contact Page
 
 ## Design-Thinking Sketch:
-[BLK Social Journalist Sketch](http://i.imgur.com/opPiRoK.jpg)
+
+[BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
 
 ## Slack Wireframe: 
 
