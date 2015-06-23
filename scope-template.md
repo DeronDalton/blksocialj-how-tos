@@ -29,13 +29,13 @@ Homepage of how-tos
 
 Navigation Bar: 
 
--- About Page,
+-- About Page.
 
--- Resources (of other products, tools and websites focused on Black Lives Matter), 
+-- Resources (of other products, tools and websites focused on Black Lives Matter).
 
--- Ethics page of covering Black Lives Matter (Code of Ethics)
+-- Ethics page of covering Black Lives Matter (Code of Ethics).
 
--- Contact Page
+-- Contact Page.
 
 ## Design-Thinking Sketch:
 
