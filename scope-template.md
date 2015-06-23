@@ -41,11 +41,11 @@ Navigation Bar:
 
 ## Design-Thinking Sketch:
 
-! [BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
+![BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
 
 ## Slack Wireframe: 
 
 ## How-Tos Wireframe:
 
-! [BLK Social Journalist's How-Tos] (http://i.imgur.com/pdGEFyF.png)
+![BLK Social Journalist's How-Tos] (http://i.imgur.com/pdGEFyF.png)
 
