@@ -45,3 +45,5 @@ Navigation Bar:
 
 ## How-Tos Wireframe:
 
+[BLK Social Journalist's How-Tos] (http://i.imgur.com/pdGEFyF.png)
+
