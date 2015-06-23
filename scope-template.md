@@ -37,13 +37,12 @@ Navigation Bar:
 
 -- Contact Page.
 
-## Tabled Ideas
+## Tabled Ideas: 
+This semester I wills start an invite-only, private Slack of Black Lives Matter's core organizing and advocating community to listen, engage and collaborate on narrative ideas that aren't being covered or coverd too poorly by mainstream media outlets. Each narrative idea will be a channel. Once a narrative conversation is complete, the channel of it will be archived and formatted/written into a how-to for the main website by myself. The site is resource of how to cover the Black Lives Matter community by the community and myself -- a collaboration. 
 
 ## Design-Thinking Sketch:
 
 ![BLK Social Journalist Sketch] (http://i.imgur.com/opPiRoK.jpg)
-
-## Slack Wireframe: 
 
 ## How-Tos Wireframe:
 
