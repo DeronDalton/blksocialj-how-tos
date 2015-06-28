@@ -3,12 +3,12 @@
 BLK Social Journalist's How-Tos (blksocialjournalist.com/how-tos)
 
 ## Goals:
-A resource Squarespace, Google or a WordPress.org site of how tos of covering Black Lives Matter narratives that are typically overlooked.
+A resource Squarespace, Google or a WordPress.org site of how tos of covering Black Lives Matter narratives that are typically overlooked or poorly covered.
 
 Slack: invite-only discussions w/ key members of Black Lives Matter community about narratives that aren’t be covered in the news and talked about by society on a greater scale.
 
 Slack: Community and I will collaborate and come up with ideas towards how mainstream media should cover each of these narratives.
-Each of these conversations about individual narratives will be converted into how-tos for main website. 
+Each of these conversations about individual narratives will be converted into how-tos for the main website. 
 
 ## Key Users:
 Slack Users: Myself, core members of Black Lives Matter.
@@ -20,8 +20,9 @@ Slack: Invite-Only, private conversations.
 
 No trolling. Community and I only coversing about narratives overlooked or poorly covered in news media.
 
-I know WordPress.org allows users to subscribe, login and take on different roles as editors, collaborators, etc.
-But I want to explore the privacy and other functions of Google, SqaureSpace. 
+UPDATED: Jue is looking into Slack's API for converting/formmatting/downloading channels from Slack into content.
+
+However, although this is something to look into. I'm leaning more to manually converting these Slack conversations into how-to content -- therefore I can moderate and take parts that shouldn't be in the how-tos. 
 
 Website: 
 Homepage of how-tos
@@ -38,7 +39,15 @@ Navigation Bar:
 -- Contact Page.
 
 ## Tabled Ideas: 
-This semester I wills start an invite-only, private Slack of Black Lives Matter's core organizing and advocating community to listen, engage and collaborate on narrative ideas that aren't being covered or coverd too poorly by mainstream media outlets. Each narrative idea will be a channel. Once a narrative conversation is complete, the channel of it will be archived and formatted/written into a how-to for the main website by myself. The site is resource of how to cover the Black Lives Matter community by the community and myself -- a collaboration. 
+I started an invite-only, private Slack. I'm starting the outreach to the Black Lives Matter's national core organizing, leadership and advocating community. 
+
+Therefore, I can start digging deeper into listening, engaging and collaborating on narrative ideas that aren't being covered or coverd too poorly by mainstream media outlets. 
+
+I surveyed the community. Therefore, each channel will be a narrative conversation -- based on some the surveys, previus conversations I had with inviduals in the community. 
+
+Once a narrative conversation is complete, the channel of it will be archived and formatted/written into a how-to for the main website by myself. 
+
+The site is resource of how to cover the Black Lives Matter community by the community and myself -- a collaboration. 
 
 ## Design-Thinking Sketch:
 
