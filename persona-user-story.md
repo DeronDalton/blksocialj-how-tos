@@ -1,3 +1,5 @@
+# Persona and User Story (Janisha Gabriel)
+
 Rekia Boyd, 22, was hit in the back of her head when Dante Servin, an off-duty detective shot into a crowd five times on March 22, 2012, in Chicago. She died two days later.
 
 Servin claimed Boyd’s friend Antonio Cross pulled out an object from his pocket and pointed it at him. Servin thought it was gun, claiming he feared for his life. The object was a cell phone. Servin was charged with involuntarily manslaughter, but was found not guilty last month.
@@ -24,10 +26,10 @@ Deron Dalton, BLK Social Journalist, talked with Gabriel on a few occasions as h
 
 He talks with her about having larger online conversations addressing the community’s challenges. This includes society and media not talking enough about how narratives around the Black Lives Matter Movement involve intersecting social injustices that impact all black people.
 
-He invites her into the moderated, invite-only forum in which conversations can be had on a greater scale, involving intersectional All Black Lives Matter narratives that the community feels should be discussed more by society and covered better by journalists.
+He invites her into the moderated, invite-only chatroom -- called Slack -- in which conversations can be had on a greater scale, involving overlooked or previous poorly done Black Lives Matter narratives that the community feels should be discussed more by society and covered better by journalists, and news organizations. Therefore, the conversations she and other key Black Lives Matter community leaders have will be put into individual channels that will be manually converted into resource website of how-tos for covering her community. 
 
-By listening and engaging in these discussions, selected community engagement managers and potential social journalists will hopefully be able to bridge together these gaps in coverage. Plus, Gabriel realizes she and community members will be able to engage in a think tank for ideas and take action with possible collaborative community organizing.
+By listening and engaging in these discussions, Gabriel realizes she and Black Lives Matter community leaders will be able to engage in a behind-the-scenes think tank for ideas and take action with possible collaborative community organizing as well as colloaborate with me on how mainstream media outlets can listen, engage and report on this community's narratives that aren't typically covered. 
 
-As she joins the platform, she goes to the home page and the navigation bar reads: home, about, forums, members, code of conduct, resources, contact and search across.
+After joiing the chatroom, she goes to the main site in which the how-tos are produced and on the home page, the navigation bar reads: home w/ the how-tos, about, members, code of conduct, resources, contact and search across.
 
-She clicks on forums; there she sees different forums she can immerse in. She clicks on one, engages in the thread, but it sparks an idea to start another conversation. Off to her right-hand is a sidebar with the option to embed media, link to an article/post or to create an original conversation. She chooses to embed a tweet she feels needs to be discussed as a narrative on a greater scale
+She clicks on a how-to on the homepage; she reads the content she and her key community members are responsible for conversing on for the purposes of larger consumption. 
